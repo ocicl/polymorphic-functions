@@ -4,7 +4,7 @@ A function type to dispatch on types instead of classes with partial
 support for dispatching on optional and keyword argument types.
 
 |---------+-----------------------------------------------------------------------------------------|
-| source  | file:https://github.com/digikar99/polymorphic-functions/archive/refs/tags/v0.4.0.tar.gz |
-| version | 0.4.0                                                                                   |
+| source  | file:https://github.com/digikar99/polymorphic-functions/archive/refs/tags/v0.5.2.tar.gz |
+| version | 0.5.2                                                                                   |
 | systems | polymorphic-functions                                                                   |
 |---------+-----------------------------------------------------------------------------------------|
